@@ -1,6 +1,8 @@
 # Power_BI_Dashboard
 <Br>
 
+# Project Overview
+The Mobile Sales Dashboard analyzes mobile sales data to provide insights into sales trends, customer behavior, and revenue performance
 
 # Conclusion
 The Mobile Sales Dashboard provides key insights into mobile sales performance based on transactional data. Here are the main findings:
